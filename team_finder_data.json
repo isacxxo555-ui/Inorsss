@@ -1,0 +1,18 @@
+{
+  "teams": [],
+  "applications": [],
+  "full_team_applications": [],
+  "profiles": [],
+  "invitations": [],
+  "competition_registrations": [],
+  "next_application_id": 1,
+  "next_invitation_id": 1,
+  "next_full_team_application_id": 1,
+  "next_competition_registration_id": 1,
+  "board_thread_id": 1570182324950405278,
+  "board_message_id": 1570182324950405278,
+  "profile_board_channel_id": 1567551402685894800,
+  "profile_board_message_id": 1570182327860989973,
+  "registration_panel_channel_id": null,
+  "registration_panel_message_id": null
+}

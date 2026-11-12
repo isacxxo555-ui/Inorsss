@@ -1,0 +1,4 @@
+# Never share this file with a real token. Put actual values in Railway Variables or local .env.
+DISCORD_BOT_TOKEN=PASTE_YOUR_BOT_TOKEN_HERE
+DISCORD_GUILD_ID=YOUR_SERVER_ID
+INVENOIR_DATA_DIR=/data

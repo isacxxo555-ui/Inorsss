@@ -1,0 +1,10 @@
+services:
+  invenoir-bot:
+    build: .
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      INVENOIR_DATA_DIR: /data
+    volumes:
+      - ./data:/data
